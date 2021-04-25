@@ -1,5 +1,4 @@
 #include "libgeometry/geometry.h"
-
 #include <assert.h>
 #include <math.h>
 #include <stdio.h>
